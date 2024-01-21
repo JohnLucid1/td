@@ -1,6 +1,6 @@
 ## Overview
 
-Td - a tool for searching to TODO's in directory (for now), sorting by amount of o's after TODO
+Td - a tool for searching to TODO's recursively in a privided directory, sorting by amount of o's after TODO
 
 ## Table of Contents
 
